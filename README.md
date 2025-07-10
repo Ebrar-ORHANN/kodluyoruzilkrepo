@@ -14,7 +14,7 @@ code.
 ```
 ## Contributing
 Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi değiştirmek istediğinizi tartışmak için bir konu açınız.
-License
+## License
 [MIT](https://github.com/Ebrar-ORHANN/kodluyoruzilkrepo?tab=MIT-1-ov-file#readme)
 ![Resim](<img width="1920" height="423" alt="image" src="https://github.com/user-attachments/assets/ce0f2a09-43d9-4c09-97d3-8b4d0770bbba" />
 )
