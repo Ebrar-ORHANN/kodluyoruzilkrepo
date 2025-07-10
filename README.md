@@ -12,7 +12,7 @@ Linux için:
 cd kodluyoruzilkrepo
 code.
 ```
-Contributing
+## Contributing
 Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi değiştirmek istediğinizi tartışmak için bir konu açınız.
 License
 [MIT](https://github.com/Ebrar-ORHANN/kodluyoruzilkrepo?tab=MIT-1-ov-file#readme)
